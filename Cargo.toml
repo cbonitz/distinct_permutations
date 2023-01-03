@@ -1,0 +1,9 @@
+[package]
+name = "distinct_permutations"
+version = "0.0.1"
+edition = "2021"
+authors = ["Christoph Bonitz"]
+license = "MIT"
+
+[dependencies]
+itertools = "0"
